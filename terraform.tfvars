@@ -1,0 +1,4 @@
+yc_token     = "t1.9euelZrGxpDMncyLy5bOyJSZmJeOku3rnpWaipaOl82PnIvGyZ2TjJfMipLl9PcxFEZA-e9uEyuL3fT3cUJDQPnvbhMri83n9euelZqPjY_PmpyOx5nJzs2Ml4mOjO_8xeuelZqPjY_PmpyOx5nJzs2Ml4mOjA.-gCSjtB3x4jWOZoAofIK3UserBlAdrl0EbzKG8zo-WzV2gPvXFzxflelZlurpq3LBYOsA6xIo6SqSrkRODCnCw"
+yc_cloud_id  = "b1gjmpd4ofucqn84e7lj"
+yc_folder_id = "b1ga3emslagphg3662qr"
+ssh_key      = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILjIFDCmJUNxlZjwGOz3YFEc4hSIqBv+njzLj2p9N6VK balanyuken@iMac-Evgenia.local"
